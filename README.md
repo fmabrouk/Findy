@@ -1,4 +1,4 @@
-# Frontend-WEBSITE
+# Frontend challenge
 ![](images/findy.png)
 ![](images/apply.png)
 ![](images/about.png)
